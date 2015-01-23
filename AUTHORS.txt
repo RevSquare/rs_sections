@@ -1,0 +1,3 @@
+The primary author of Django Cms Base is Tomasz Roszko
+
+email: tomaszroszko@revsquare.com

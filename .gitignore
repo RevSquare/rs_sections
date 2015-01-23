@@ -1,0 +1,8 @@
+*.pyc
+*.pid
+.swp
+/.project
+/.pydevproject
+/.settings
+/.idea
+.DS_Store
